@@ -1,17 +1,22 @@
 {
   "name": "@mkv-mkverma/demo-package",
-  "version": "1.0.0",
-  "description": "This is for learning purpose",
-  "main": "index.js",
+  "version": "1.0.2",
+  "description": "Leaflet for boundary canvas and tiles color picker",
+  "main": "src/boundary-canvas.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "npm-demo-package"
+    "leaflet",
+    "boundary canvas",
+    "map color picker",
+    "color picker"
   ],
   "author": "Manish Kumar Verma",
   "license": "MIT License",
+  "readmeFilename": "README.md",
   "repository": {
+    "type": "git",
     "url": "git://github.com/mkv-mkverma/demo-package.git"
   }
 }
