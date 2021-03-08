@@ -1,7 +1,7 @@
 {
   "name": "@mkv-mkverma/demo-package",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is for learning purpose",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,5 +10,8 @@
     "npm-demo-package"
   ],
   "author": "Manish Kumar Verma",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "url": "git://github.com/mkv-mkverma/github-package-demo.git"
+  }
 }
