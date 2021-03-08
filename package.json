@@ -10,8 +10,8 @@
     "npm-demo-package"
   ],
   "author": "Manish Kumar Verma",
-  "license": "ISC",
+  "license": "MIT License",
   "repository": {
-    "url": "git://github.com/mkv-mkverma/github-package-demo.git"
+    "url": "git://github.com/mkv-mkverma/demo-package.git"
   }
 }
