@@ -1,6 +1,6 @@
 {
   "name": "@mkv-mkverma/demo-package",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Leaflet for boundary canvas and tiles color picker",
   "main": "src/boundary-canvas.js",
   "scripts": {
